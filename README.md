@@ -26,7 +26,7 @@ functionality for various tasks.
    - [Gamified Contributor Process](https://the-ai-alliance.github.io/gofannon/leaderboard.html)
 ## 🎓🎓 Why the name `gofannon`? 🎓🎓
 
-See [`why_the_name_gofannon`](https://the-ai-alliance.github.io/gofannon/about/the_name_gofannon/) for the rich story on why we chose to honor this Celtic Diety
+See [`why_the_name_gofannon`](https://the-ai-alliance.github.io/gofannon/about/the_name_gofannon/) for the rich story on why we chose to honor this Celtic Deity.
 
 ## ⚡️⚡️Quickstart ⚡️⚡️
 
@@ -40,7 +40,7 @@ will get you pretty close to the tip of the spear. But if you absolutely _must_
 have the latest and greatest, this will work too:
 
 ```bash
-git+https://github.com/The-AI-Alliance/gofannon.git@main
+python -m pip install "git+https://github.com/The-AI-Alliance/gofannon.git@main"
 ```
 
 For more information, see our [quickstart guide](https://github.com/The-AI-Alliance/gofannon/blob/main/docs/quickstart.md).
@@ -59,7 +59,7 @@ Made with [contrib.rocks](https://contrib.rocks).
 
 Star `gofannon` for good karma (and to receive updates in your github feed).
 
-![gif showng how to star](https://the-ai-alliance.github.io/gofannon/assets/images/github-star.gif)
+![gif showing how to star](https://the-ai-alliance.github.io/gofannon/assets/images/github-star.gif)
 
 ## 🚲🚲 Roadmap  🚲🚲
   
